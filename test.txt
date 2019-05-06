@@ -9,3 +9,4 @@ level 7
 level 8
 master after remote test.txt
 rotarski
+wspolpraca wpisana
